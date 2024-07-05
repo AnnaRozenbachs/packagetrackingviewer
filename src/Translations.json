@@ -1,0 +1,84 @@
+[
+    
+    {
+        "tableHeaderParcelId":
+        {
+            "sv": "Paket Id",
+            "en":"Parcel Id",
+            "de":"Flurstücks-ID",
+            "es": "Identificación del paquete"
+        },
+        "tableHeaderLocationName":
+        {
+            "sv":"Platsnamn",
+            "en": "Location name",
+            "de" :"Standortnamen",
+            "es": "Nombre del lugar"
+        },
+        "tableHeaderColumnSender":
+        {
+            "sv":"Avsändare",
+            "en": "Sender",
+            "de" :"Absender",
+            "es": "Remitente"
+        },
+        "tableHeaderColumnStatus":
+        {
+            "sv":"Status",
+            "en": "Status",
+            "de" :"Status",
+            "es": "Estado"
+        },
+        "tableHeaderColumnUsername":
+        {
+            "sv":"Användarnamn",
+            "en": "Username",
+            "de" :"Nutzername",
+            "es": "Nombre de usuario"
+        },
+        "tableHeaderColumnETA":
+        {
+            "sv":"ETA",
+            "en": "ETA",
+            "de" :"Ankunftszeit",
+            "es": "ETA"
+        },
+        "ApplicationHeadLine":
+        {
+            "sv":"Paketspårning",
+            "en": "Package tracking viewer",
+            "de" :"Paketverfolgungsanzeige",
+            "es": "Visor de seguimiento de paquetes"
+        },
+        "delivered":
+        {
+            "sv":"Levererad",
+            "en": "Delivered",
+            "de" :"Geliefert",
+            "es": "Entregada"
+        },
+        "ready-for-pickup":
+        {
+            "sv":"Redo för upphämtning",
+            "en": "Ready for pickup",
+            "de" :"Abholbereit",
+            "es":"Listo para recojer"
+            
+        },
+        "on-the-way":
+        {
+            "sv":"På väg",
+            "en": "On the way",
+            "de" :"Auf dem Weg",
+            "es": "En camino"
+        },
+        "order-info-received":
+        {
+            "sv":"På väg",
+            "en": "Orderinfo received",
+            "de" :"Bestellinfo erhalten",
+            "es": "Información del pedido recibido"
+        }
+             
+    }
+]
