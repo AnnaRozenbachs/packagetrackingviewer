@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/packagetrackingviewer/static/css/main.e4e2e33c.css",
+    "main.js": "/packagetrackingviewer/static/js/main.ccb58fda.js",
+    "static/js/453.cf90d776.chunk.js": "/packagetrackingviewer/static/js/453.cf90d776.chunk.js",
+    "static/media/flag.png": "/packagetrackingviewer/static/media/flag.693974aa5a906f9817b1.png",
+    "static/media/united-kingdom.png": "/packagetrackingviewer/static/media/united-kingdom.b9a2ba74e5f8a55977e7.png",
+    "static/media/sweden.png": "/packagetrackingviewer/static/media/sweden.437809b290df656fb513.png",
+    "static/media/germany.png": "/packagetrackingviewer/static/media/germany.cc670a050b591bf6656d.png",
+    "static/media/logo.svg": "/packagetrackingviewer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/packagetrackingviewer/index.html",
+    "main.e4e2e33c.css.map": "/packagetrackingviewer/static/css/main.e4e2e33c.css.map",
+    "main.ccb58fda.js.map": "/packagetrackingviewer/static/js/main.ccb58fda.js.map",
+    "453.cf90d776.chunk.js.map": "/packagetrackingviewer/static/js/453.cf90d776.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4e2e33c.css",
+    "static/js/main.ccb58fda.js"
+  ]
+}
